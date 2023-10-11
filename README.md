@@ -1,4 +1,4 @@
-# toonflix
+# Flutter UI Study (only use StatelessWidget)
 
 A new Flutter project.
 
